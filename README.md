@@ -54,11 +54,11 @@ This is an example of how to list things you need to use the software and how to
 
 ## FlowChart Methodology
 
-<img src="https://github.com/zabhitak/recruitData/blob/master/Screenshot/flowchart.PNG"  align="center" alt=""/>
+<img src="https://github.com/zabhitak/sPAMMER/blob/master/Screenshot/flowchart.PNG"  align="center" alt=""/>
 
 ## UI Screenshots
 
-<img src="https://github.com/zabhitak/recruitData/blob/master/Screenshot/ui.PNG"  align="center" alt=""/>
+<img src="https://github.com/zabhitak/sPAMMER/blob/master/Screenshot/ui.PNG"  align="center" alt=""/>
 
 
 
