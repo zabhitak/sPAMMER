@@ -1,17 +1,18 @@
-# Recruitment Analyser
+# SMS Spammer
 
-As recruitment is one of the most important task for student’s & organizations as well. If there could be a model such that, it can predict the possibility of student to get recruited or placed in an organization or not, that can save lots of time of HR Managers , staffs & placement commitee.I focus on the specific point of developing a predictive machine learning model for identifying candidates who are likely to clear the recruitment process based on past data. This way, the recruiters can work only on such candidates, saving countless man-hours that multiple persons from multiple departments would otherwise spend on candidates that would eventually be rejected. This way, Talent Acquisition would not just improve on efficiency, but would also be better aligned with the overall business objectives of the company.
+This is a Spam Classifier web application built using Flask and deployed on Heroku platform.
+The app takes a message/email as an input and predict the message/email as spam or not spam (ham).
 
 ## Live Link
 
-https://xrecruit.herokuapp.com/
+https://aqueous-depths-89669.herokuapp.com/
 
 ## Novelty
 
 1. Designed the complete frontend and backend.
 2. Created dummy dataset for testing purpose.
 3. Trained for different models.
-4. Done hyperparameter tuning for xgboost
+4. Done hyperparameter tuning for classification
 5. Only certain extensions allowed so that no invalid file has to be processed.
 6. Live project that can be accessed from anywhere. 
 
@@ -63,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Challenges
 
-1. Input list is not allowed in xgbost, so make it as dataframe.
+1. Input list is not allowed in classification, so make it as dataframe.
 2. Hyperparameter for different cross validations.
 3. Deploying on heroku using flask.
 
@@ -75,13 +76,6 @@ This is an example of how to list things you need to use the software and how to
 ## Requirements
 
 1. Working Internet connection (around 2 Mbps)
-
-## Models and Hyperparameters
-
-<img src="https://github.com/zabhitak/recruitData/blob/master/Screenshot/models.PNG" alt=""/>
-
-
-<img src="https://github.com/zabhitak/recruitData/blob/master/Screenshot/hyper.PNG"  alt=""/>
 
 
 ## Technologies Used
